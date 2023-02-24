@@ -27,7 +27,8 @@ Ireland. Im the NA, EMEA, APAC, and Japan territories.
 Questions asked were for our analysis: 
 
 1. Which products sell the most?
-![image](https://user-images.githubusercontent.com/125233093/221056813-0c411bfd-d120-46d8-9980-3c55cb06f315.png)
+![image](https://user-images.githubusercontent.com/125233093/221098135-e32464a1-6d71-456c-b547-e8bdd8eeab3b.png)
+
 
 2. Which year sold the most? Digging further to understand the dramatic dip in revenue in 2005 uncovered that there was only data for the months of January to May. From the graph we can see that revenue was increasing each year and can deduce if there was more data that 2005 would possibly be the best year. 
 
@@ -41,15 +42,11 @@ Questions asked were for our analysis:
 
 ![image](https://user-images.githubusercontent.com/125233093/221066924-1b095c2f-432a-46b6-b7bd-ecca9c18412c.png)
 
-5. What product do they sell the most in November (the month with the most sales)?
-
-![image](https://user-images.githubusercontent.com/125233093/221067816-643c3205-1da1-4c58-933e-9d9b5838c074.png)
-
-6. What city has the highest amount of sales in the United States? 
+5. What city has the highest amount of sales in the United States? 
 
 ![image](https://user-images.githubusercontent.com/125233093/221068741-ee3f4024-abec-4b82-bc7f-5c91d766585d.png)
 
-7. What is the best selling product in the United States?
+6. What is the best selling product in the United States?
  
  ![image](https://user-images.githubusercontent.com/125233093/221070304-1563ceda-1fda-4cf2-ba56-713fd7de9925.png)
 
@@ -72,13 +69,24 @@ For this analysis the customer were segments into 4 segments.
 
 
 Below is a graph of the count of customers in each segment in this analysis. 
-![image](https://user-images.githubusercontent.com/125233093/221087358-d7a98eb0-a880-44db-83c6-942e6b1275f9.png)
+![image](https://user-images.githubusercontent.com/125233093/221096380-6526a553-9233-49e1-93ce-4a49a9ed4b28.png)
 
 
-This graph shows the average days between the last purchase, average frequency of purchases, and the average amount spent in purchases.
+This graph shows the average days between the last purchase, average frequency of purchases, and the average amount spent in purchases per segment.
 ![image](https://user-images.githubusercontent.com/125233093/221086747-5cbd9d0e-ca20-4e4f-ac01-e7d60b016804.png)
 
 
+Our 'Best Customers purchase frequently, recently, and spend money when they purchase. <br>
+'Potential Customer' have purchased recently but not as frequently. <br>
+'Loyal Customer' shop frequently with the establishment. <br>
+'Spenders' when they do shop spend big money. <br>
+'Almost Lost' have not purchased recently but have in the past purchased frequently and spent money. <br>
+'Lost Customers' have not purchased recently. <br>
+'Look out Buyers' have purchase somewhat recently ans may either become a lost customer or a more consistent buyer. <br>
+'Occasional Buyers' they purchase somewhat frequently and recently. <br>
+'Recent Buyers' have purchased recently and may be swayed to come back. <br>
+
+This analysis will allow marketers to determine what customers to focus on, where to offer discounts, and how to retain customers. 
 
 
 
